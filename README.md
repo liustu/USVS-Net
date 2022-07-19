@@ -1,7 +1,7 @@
 # USVS-Net
 The expressive results of the USVS-Net are shown as follows.
 
-Source view denotes the input of the network.
+*Source view denotes the input of the network.
 
 Target view denotes the output of the network by specifyinh different poses.
 
